@@ -1,0 +1,8 @@
+issue,submissions_affected,no_response_count,no_response_rate_pct
+Missing data owner,4,4,100.0
+DPDP flag inconsistent with classification,4,4,100.0
+Classification missing/invalid,2,2,100.0
+submitted_on format invalid,1,1,100.0
+last_updated format invalid,1,1,100.0
+Description missing or too short,2,0,0.0
+Record count missing,2,0,0.0

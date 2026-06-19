@@ -1,0 +1,14 @@
+DATA QUALITY REVIEW - SUMMARY
+========================================
+Total submissions reviewed: 25
+Pass all checks: 14 (56%)
+Fail one or more checks: 11 (44%)
+
+Most common issue types:
+  - Missing data owner: 4
+  - DPDP flag inconsistent with classification: 4
+  - Description missing or too short: 2
+  - Record count missing: 2
+  - Classification missing/invalid: 2
+  - last_updated format invalid: 1
+  - submitted_on format invalid: 1

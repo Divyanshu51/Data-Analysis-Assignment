@@ -1,0 +1,5 @@
+submission_id,department,dataset_title,data_classification,data_steward_assigned,missing
+META-005,Health Department,Patient Admission Records District Hospitals,Public,Yes,classification not Restricted/Confidential
+META-007,Agriculture Department,Farmer Registration PM-KISAN,,No,"classification not Restricted/Confidential, no data steward assigned"
+META-015,Women & Child Development,Anganwadi Beneficiary Data,Public,No,"classification not Restricted/Confidential, no data steward assigned"
+META-020,Food & Civil Supplies,PDS Beneficiary Records,,No,"classification not Restricted/Confidential, no data steward assigned"

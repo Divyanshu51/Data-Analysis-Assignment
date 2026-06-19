@@ -1,0 +1,14 @@
+Metadata Platform - compliance check-in
+19 Jun 2026
+
+10 out of 20 departments have something pending right now, the other 10 are fully cleared.
+
+Basic Education Department is the one to watch - 0.0% approved so far (0 of 2).
+
+Follow-ups went out a while back and these departments still haven't replied: Basic Education Department, Energy Department, Food & Civil Supplies, Home Department, Labour Department, Women & Child Development, Health Department, Agriculture Department. Probably need a nudge, maybe a phone call at this point rather than another email.
+
+'Missing data owner' is still the most common reason submissions get bounced back (4 cases), and departments aren't responding to it - 100.0% non-response rate, the worst of any issue type.
+
+On the DPDP side, 4 submissions marked as containing personal data still haven't got the classification and steward sign-off sorted - see dpdp_gaps.csv for which ones.
+
+Full department breakdown is in compliance_report.csv, worst to best.

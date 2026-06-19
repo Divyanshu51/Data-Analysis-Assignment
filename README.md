@@ -9,7 +9,7 @@ UP State Data Authority's Metadata Platform pilot.
 ## Folder structure
 
 ```
-sda-metadata-review/
+Data-Analysis-Assignment/
 ├── src/
 │   ├── quality_review.py        # Section 1
 │   ├── compliance_analysis.py   # Section 2
@@ -28,7 +28,7 @@ sda-metadata-review/
 ## Setup (fresh machine)
 
 ```bash
-git clone <your-repo-url>
+git clone github.com/Divyanshu51/Data-Analysis-Assignment.git
 cd SDA Data Analysis Assignment
 pip install -r requirements.txt
 ```
